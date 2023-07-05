@@ -1,5 +1,5 @@
 const fs = require('fs/promises');
-// const { nanoid } = require('nanoid');
+const { nanoid } = require('nanoid');
 
 const path = require('path');
 
